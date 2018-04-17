@@ -9,7 +9,7 @@ package graficos;
  *
  * @author 12
  */
-8 teclado
+//8 teclado
 public final class Sprite {
     private final int lado;
     private int x;
